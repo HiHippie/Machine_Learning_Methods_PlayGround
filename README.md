@@ -2,5 +2,5 @@
 
 TODO LIST
 
-- [ ] Add numpy implements of MLP and Perceptron.
+- [x] Add numpy implements of MLP and Perceptron.
 - [ ] Add comments and tutorials.

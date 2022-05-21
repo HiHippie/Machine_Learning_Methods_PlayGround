@@ -3,4 +3,5 @@
 TODO LIST
 
 - [x] Add numpy implements of MLP and Perceptron.
-- [ ] Add comments and tutorials.
+- [ ] Add MLP and Perceptron comments and tutorials.
+- [ ] Add Transformer.
